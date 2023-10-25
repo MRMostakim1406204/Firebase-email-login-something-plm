@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723703369121",
+    "project_id": "fir-email-login-ae1ea",
+    "storage_bucket": "fir-email-login-ae1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723703369121:android:30a207807a404f129bcfe0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_email_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMnlSG9SMPcAyVufDGJAA4XeNsR3dfFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
